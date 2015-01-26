@@ -1,0 +1,17 @@
+#offlineData{
+  display: block;
+  position: relative;
+  padding: 7px 12px;
+  color: white;
+  overflow: hidden;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 120%;
+}
+.online {
+  background-color: #66CC00;
+}
+
+.offline {
+  background-color: red;
+}
